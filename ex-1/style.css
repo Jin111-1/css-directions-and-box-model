@@ -1,1 +1,28 @@
-/* Start coding here */
+* {
+    margin: 0px;
+}
+
+
+.heading-main {
+
+color: darkblue;
+border: 30px solid dodgerblue;
+background-color: dodgerblue;
+margin: 100px dodgerblue;
+}
+
+.main-context-1 {
+width: 600px;
+box-sizing:  :border-box;
+color: darkblue;
+border: 10px solid black;
+background-color: gray;
+margin: 30px 
+
+}
+
+
+img {
+    width: 500px;
+    height: 100px;
+}
