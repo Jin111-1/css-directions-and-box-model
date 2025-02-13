@@ -1,1 +1,15 @@
-/* Start coding here */
+.heading {
+    font-size: 72px;
+    text-align: center;
+    border: 24px solid crimson;
+    background-color: khaki;
+    height: 1180px;
+    outline: 16px solid black;
+    }
+    
+.container {
+ background-color: lightgray;
+ padding: 16px;
+
+}
+    
