@@ -1,1 +1,28 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+    padding: 16px;
+    background-color: black;
+    align-items: center;
+    border: 16px solid lightgray;
+    
+}
+
+.content {
+    height: 100%;
+    background-color: khaki;
+    text-align: center;
+    border: 24px solid crimson;
+}
+
+h1 {
+    font-size: 72px;
+    padding-top: 30px;
+}
