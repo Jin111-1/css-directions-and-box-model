@@ -1,1 +1,42 @@
-/* Start coding here */
+*{
+    box-sizing: border-box;
+    padding: o;
+    margin: 0;
+   
+}
+.header-container{
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(127, 163, 218);
+    display: flex;
+    margin-left: 0px;
+}
+.header-title{
+    color: darkblue;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.content-container{
+    display: block;
+    border-style: solid;
+    border-color: darkblue;
+    width: 50vw;
+    height: 350px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.content-container-title{
+    margin: 30px 30px 30px 20px;
+    font-size: 1rem;
+    color: darkblue;
+}
+.content-container-image{
+    margin: 0px 30px 30px 20px;
+
+}
+.content-container-p{
+    margin: 0px 30px 30px 20px;
+}
